@@ -23,8 +23,8 @@ La aplicación permite realizar operaciones básicas:
 2. Abrir la carpeta del proyecto.
 3. Ejecutar el archivo calculadora.py con Python.
 
-**	python calculadora.py
-*
+  python calculadora.py
+
 ## Autor
 
 - Nombre del estudiante: Samara Motta Guerrero
